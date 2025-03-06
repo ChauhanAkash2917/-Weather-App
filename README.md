@@ -1,10 +1,13 @@
 🌦️ JavaScript Weather App – Stay Updated, Anytime, Anywhere!
 
+
 http://127.0.0.1:5500/index.html
+
 
 
 Build an interactive Weather App ☀️🌧️ using JavaScript that provides real-time weather updates 📡.
 This sleek and responsive app allows users to search for any city 🏙️ and instantly get:
+
 
 
 🔹 Current Temperature 🌡️
@@ -18,6 +21,7 @@ This sleek and responsive app allows users to search for any city 🏙️ and in
 🔹 Dynamic Backgrounds & Icons 🎨🖼️
 
 
+
 ✨ Features & Functions:
 
 ✅ Fetch live weather data from an API 🌍
@@ -29,6 +33,7 @@ This sleek and responsive app allows users to search for any city 🏙️ and in
 ✅ Beautiful UI with smooth animations 🎬
 
 ✅ Error handling for invalid city searches 🚨
+
 
 
 💡 Creative Commit Messages:
