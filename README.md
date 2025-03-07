@@ -1,7 +1,6 @@
-🌦️ JavaScript Weather App – Stay Updated, Anytime, Anywhere!
+[**🌦️ JavaScript Weather App**](https://chauhanakash2917.github.io/-Weather-App/)
 
 
-http://127.0.0.1:5500/index.html
 
 
 
